@@ -257,7 +257,7 @@ const services = [
   { icon: '◇', title: 'Luxury Hampers', desc: 'Bespoke gift baskets crafted with intention and love' },
   { icon: '✧', title: 'Personalized Gifts', desc: 'Meaningful presents that touch the heart and create lasting memories' },
   { icon: '❂', title: 'Romantic Dinners', desc: 'Enchanting settings for memorable evenings under candlelight' },
-  { icon: '', title: 'Celebration Planning', desc: 'Seamless execution of your vision from concept to reality' },
+  { icon: '⬡', title: 'Celebration Planning', desc: 'Seamless execution of your vision from concept to reality' },
   { icon: '❖', title: 'Custom Decor', desc: 'Bespoke elements tailored to reflect your unique story' },
   { icon: '◉', title: 'Memory Curation', desc: 'Preserving beautiful moments in ways that feel timeless' }
 ]
@@ -333,7 +333,7 @@ function Services() {
 }
 
 const galleryImages = [
-  { src: 'https://images.unsplash.com/photo-1469334031218-e382a716b716b?w=600&q=80', height: 'tall' },
+  { src: 'https://images.unsplash.com/photo-1469334031218-e382a71b716b?w=600&q=80', height: 'tall' },
   { src: 'https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600&q=80', height: 'short' },
   { src: 'https://images.unsplash.com/photo-1478146896981-b80fe463b330?w=600&q=80', height: 'medium' },
   { src: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80', height: 'tall' },
